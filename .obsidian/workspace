@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "41708b38fd73ba0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "520e5e85acff435c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Other/Wishlist.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e53151a18ce5cee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "47aacc1bd1e40c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf72495abdc7ea69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "135273cd645b08d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "3f4e3d9d760e7859",
+    "type": "split",
+    "children": [
+      {
+        "id": "31bb2369458633d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f12cff1026543986",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other/Wishlist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "520e5e85acff435c",
+  "lastOpenFiles": [
+    "Other/Wishlist.md",
+    "Studies/Maths.md",
+    "Studies/Chemistry.md",
+    "Studies/Physics.md",
+    "Hidden/Templates/Practice Template.md",
+    "Hidden/Templates/Fair Template.md",
+    "Studies/Chemistry Chapters/Chemistry Fair/Periodic Properties F.md",
+    "Studies/Chemistry Chapters/Chemistry Practice/Stoichiometry P.md",
+    "Studies/Chemistry Chapters/Chemistry Fair/Stoichiometry F.md",
+    "Studies/Chemistry Chapters/Chemistry Practice/Periodic Properties P.md"
+  ]
+}
