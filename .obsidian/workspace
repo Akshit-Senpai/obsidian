@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Studies/Maths.md"
+            "file": "Other/TODO.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Maths.md",
+                "file": "Other/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,14 @@
   },
   "active": "520e5e85acff435c",
   "lastOpenFiles": [
-    "Studies/Maths.md",
+    "Other/TODO.md",
     "Other/Wishlist.md",
+    "Studies/Maths.md",
     "Studies/Chemistry.md",
     "Studies/Physics.md",
     "Hidden/Templates/Practice Template.md",
     "Hidden/Templates/Fair Template.md",
     "Studies/Chemistry Chapters/Chemistry Fair/Periodic Properties F.md",
-    "Studies/Chemistry Chapters/Chemistry Practice/Stoichiometry P.md",
-    "Studies/Chemistry Chapters/Chemistry Fair/Stoichiometry F.md",
-    "Studies/Chemistry Chapters/Chemistry Practice/Periodic Properties P.md"
+    "Studies/Chemistry Chapters/Chemistry Practice/Stoichiometry P.md"
   ]
 }
