@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## TO DO
 
 - [ ] Bath
+- [ ] Type 20 min
 - [ ] Brush
 - [ ] Cycle 20 min
 - [ ] Guitar/Cube 20 min
@@ -15,7 +16,6 @@ kanban-plugin: basic
 ## DONE
 
 **Complete**
-- [ ] Type 20 min
 
 
 
