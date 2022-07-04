@@ -12,8 +12,8 @@
 - [x] DTS-9
 - [x] DTS-10
 - [x] Numeric-JEE
-- [ ] JEE-Mains
-- [ ] JEE-Advanced
+- [x] JEE-Mains
+- [x] JEE-Advanced
 
 
 

@@ -1,12 +1,12 @@
 # Kinematics of a Particle Practice
 - [ ] Illustrations
 - [ ] INEs
-- [ ] DTS-1
+- [x] DTS-1
 - [ ] DTS-2
 - [ ] DTS-3
 - [ ] DTS-4
 - [ ] DTS-5
-- [ ] DTS-6
+- [x] DTS-6
 - [ ] DTS-7
 - [ ] DTS-8
 - [ ] DTS-9

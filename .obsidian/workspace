@@ -7,9 +7,11 @@
         "id": "520e5e85acff435c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Other/TODO.md"
+            "file": "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/TODO.md",
+                "file": "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +89,15 @@
   },
   "active": "520e5e85acff435c",
   "lastOpenFiles": [
+    "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
+    "Studies/Physics.md",
+    "Studies/Physics Chapters/Physics Fair/Vectors and Forces F.md",
+    "Studies/Physics Chapters/Physics Practice/Vectors and Forces P.md",
+    "Studies/Chemistry Chapters/Chemistry Practice/Stoichiometry P.md",
+    "Studies/Chemistry Chapters/Chemistry Practice/Atomic Structure P.md",
+    "Studies/Chemistry Chapters/Chemistry Practice/Periodic Properties P.md",
     "Other/TODO.md",
     "Other/Wishlist.md",
-    "Studies/Maths.md",
-    "Studies/Chemistry.md",
-    "Studies/Physics.md",
-    "Hidden/Templates/Practice Template.md",
-    "Hidden/Templates/Fair Template.md",
-    "Studies/Chemistry Chapters/Chemistry Fair/Periodic Properties F.md",
-    "Studies/Chemistry Chapters/Chemistry Practice/Stoichiometry P.md"
+    "Studies/Maths.md"
   ]
 }
