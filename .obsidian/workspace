@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
+            "file": "Studies/Maths Chapters/Maths Fair/Sequence and Series F.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
+                "file": "Studies/Maths Chapters/Maths Fair/Sequence and Series F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "520e5e85acff435c",
   "lastOpenFiles": [
-    "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
+    "Studies/Maths Chapters/Maths Fair/Sequence and Series F.md",
+    "Studies/Maths Chapters/Maths Practice/Sequence and Series P.md",
+    "Studies/Maths.md",
     "Studies/Physics.md",
+    "Studies/Physics Chapters/Physics Practice/Kinematics of Particle P.md",
     "Studies/Physics Chapters/Physics Fair/Vectors and Forces F.md",
     "Studies/Physics Chapters/Physics Practice/Vectors and Forces P.md",
     "Studies/Chemistry Chapters/Chemistry Practice/Stoichiometry P.md",
     "Studies/Chemistry Chapters/Chemistry Practice/Atomic Structure P.md",
-    "Studies/Chemistry Chapters/Chemistry Practice/Periodic Properties P.md",
-    "Other/TODO.md",
-    "Other/Wishlist.md",
-    "Studies/Maths.md"
+    "Studies/Chemistry Chapters/Chemistry Practice/Periodic Properties P.md"
   ]
 }

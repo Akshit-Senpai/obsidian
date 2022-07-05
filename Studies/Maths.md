@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Practice TODO
 
 - [ ] [[Trigonometry P]]
+- [ ] [[Sequence and Series P]]
 
 
 ## Practice DONE
@@ -19,6 +20,7 @@ kanban-plugin: basic
 ## Fair TODO
 
 - [ ] [[Trigonometry F]]
+- [ ] [[Sequence and Series F]]
 
 
 ## Fair DONE
