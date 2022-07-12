@@ -2,12 +2,12 @@
 - [ ] Illustrations
 - [ ] INEs
 - [x] DTS-1
-- [ ] DTS-2
+- [x] DTS-2
 - [ ] DTS-3
 - [ ] DTS-4
 - [ ] DTS-5
 - [x] DTS-6
-- [ ] DTS-7
+- [x] DTS-7
 - [ ] DTS-8
 - [ ] DTS-9
 - [ ] DTS-10
