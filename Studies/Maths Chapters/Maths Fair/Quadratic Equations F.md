@@ -10,3 +10,6 @@
 
 
 Also check out [[Quadratic Equations P]]
+
+<- [[Basic Maths for Physics F]]
+-> [[Trigonometry F]]

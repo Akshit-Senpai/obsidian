@@ -19,3 +19,6 @@
 
 
 Also check out [[Atomic Structure F]]
+
+<- [[Stoichiometry P]]
+-> [[Periodic Properties P]]

@@ -8,8 +8,10 @@
 - [x] Class-7
 - [x] Class-8
 - [x] Class-9
-- [ ] Class-10
+- [x] Class-10
 
 
 
 Also check out [[Kinematics of Particle P]]
+
+<- [[Vectors and Forces F]]

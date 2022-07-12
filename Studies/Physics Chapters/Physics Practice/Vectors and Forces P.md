@@ -19,3 +19,5 @@
 
 
 Also check out [[Vectors and Forces F]]
+
+-> [[Kinematics of Particle P]]

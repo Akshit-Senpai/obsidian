@@ -18,3 +18,6 @@
 
 
 Also check out [[Quadratic Equations F]]
+
+<- [[Basic Maths for Physics P]]
+-> [[Trigonometry P]]

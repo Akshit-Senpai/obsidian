@@ -1,7 +1,7 @@
 # Periodic Properties Classes
 - [x] Class-1
-- [ ] Class-2
-- [ ] Class-3
+- [x] Class-2
+- [x] Class-3
 - [ ] Class-4
 - [ ] Class-5
 - [ ] Class-6
@@ -13,3 +13,5 @@
 
 
 Also check out [[Periodic Properties P]]
+
+<- [[Atomic Structure F]]

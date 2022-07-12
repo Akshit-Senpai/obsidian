@@ -19,3 +19,6 @@
 
 
 Also check out [[Trigonometry F]]
+
+<- [[Quadratic Equations P]]
+-> [[Sequence and Series P]]

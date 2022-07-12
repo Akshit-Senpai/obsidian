@@ -4,3 +4,5 @@
 
 
 Also check out [[Basic Maths for Physics F]]
+
+-> [[Quadratic Equations P]]

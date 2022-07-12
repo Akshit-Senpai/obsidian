@@ -9,3 +9,5 @@
 
 
 Also check out [[Basic Maths for Physics P]]
+
+-> [[Quadratic Equations F]]
