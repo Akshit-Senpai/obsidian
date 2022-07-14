@@ -1,6 +1,6 @@
 # Atomic Structure Practice
-- [ ] Illustrations
-- [ ] INEs
+- [x] Illustrations
+- [x] INEs
 - [ ] DTS-1
 - [ ] DTS-2
 - [ ] DTS-3
