@@ -1,19 +1,19 @@
 # Atomic Structure Practice
 - [x] Illustrations
 - [x] INEs
-- [ ] DTS-1
-- [ ] DTS-2
-- [ ] DTS-3
-- [ ] DTS-4
-- [ ] DTS-5
-- [ ] DTS-6
-- [ ] DTS-7
-- [ ] DTS-8
-- [ ] DTS-9
-- [ ] DTS-10
-- [ ] Numeric-JEE
-- [ ] JEE-Mains
-- [ ] JEE-Advanced
+- [x] DTS-1
+- [x] DTS-2
+- [x] DTS-3
+- [x] DTS-4
+- [x] DTS-5
+- [x] DTS-6
+- [x] DTS-7
+- [x] DTS-8
+- [x] DTS-9
+- [x] DTS-10
+- [x] Numeric-JEE
+- [x] JEE-Mains
+- [x] JEE-Advanced
 - [ ] Level-3
 
 
